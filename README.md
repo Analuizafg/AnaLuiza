@@ -2,7 +2,7 @@
 
 meu nome é Ana Luiza
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://cursos.alura.com.br/dashboard)
 - Estou me desenvolvendo na liguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
