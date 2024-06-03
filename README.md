@@ -1,6 +1,6 @@
 ### Boa vindas ao meu perfil ✨
 
-Meu é Ana Luiza
+meu nome é Ana Luiza
 
 - Estou estudando na A lura
 - Estou me desenvolvendo na liguagem JavaScript
