@@ -11,3 +11,6 @@ meu nome é Ana Luiza
   analuizafuini@gmail.com
 
   @ana_fuini
+
+![]()
+https://media1.tenor.com/m/sGdKXJo0FgEAAAAC/fun.gif
