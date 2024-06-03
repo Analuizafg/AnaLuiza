@@ -12,5 +12,5 @@ meu nome é Ana Luiza
 
   @ana_fuini
 
-![]()
-https://media1.tenor.com/m/sGdKXJo0FgEAAAAC/fun.gif
+![](https://media1.tenor.com/m/sGdKXJo0FgEAAAAC/fun.gif)
+
